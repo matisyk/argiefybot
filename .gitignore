@@ -2,3 +2,5 @@ config.ts
 node_modules
 yarn.lock
 .yarn-integrity
+.env
+.package-lock.json
